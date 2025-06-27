@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fb98a1b-9883-48f1-9121-701408f7ecc9" name="Changes" comment="" />
+    <list default="true" id="2fb98a1b-9883-48f1-9121-701408f7ecc9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/nick/projects/cyber",
+    "last_opened_file_path": "/home/nick/projects/tasks/backend/apps/tasks/migrations",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -36,6 +39,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/apps/tasks/migrations" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="tasks" type="Python.DjangoServer" factoryName="Django server">
       <module name="tasks" />
@@ -79,6 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751036487408</updated>
       <workItem from="1751036488451" duration="1475000" />
+      <workItem from="1751038002346" duration="100000" />
     </task>
     <servers />
   </component>
